@@ -1,0 +1,6 @@
+throw([5, 4;
+	5] * matriz);
+
+variable : [8 + 3e+2 -0.3].
+
+
